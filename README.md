@@ -24,7 +24,14 @@ Requirements:
 Build the project:
 
 ```bash
+make clean
 make
+```
+
+Run the project:
+
+```bash
+make run
 ```
 
 ## Project Structure
